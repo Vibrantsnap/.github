@@ -6,7 +6,7 @@
 
 **Turn screen recordings into polished product videos that convert.**
 
-Record your screen, and Vibrantsnap automatically transforms your footage into professional, ready-to-share videos — no editing skills required.
+Record your screen, and Vibrantsnap automatically transforms your footage into professional, ready-to-share videos, no editing skills required.
 
 [Get Started](https://vibrantsnap.com) &nbsp;&bull;&nbsp; [Pricing](https://vibrantsnap.com/pricing)
 
@@ -24,7 +24,7 @@ Record your screen, and Vibrantsnap automatically transforms your footage into p
 
 ## What is Vibrantsnap?
 
-Vibrantsnap is an AI-powered video platform built for SaaS teams, founders, and creators. It takes your raw screen recordings and turns them into high-quality product demos, tutorials, and walkthroughs — automatically.
+Vibrantsnap is an AI-powered video platform built for SaaS teams, founders, and creators. It takes your raw screen recordings and turns them into high-quality product demos, tutorials, and walkthroughs, automatically.
 
 No timeline. No complex editing. Just record, and we handle the rest.
 
@@ -38,7 +38,7 @@ No timeline. No complex editing. Just record, and we handle the rest.
       <img src="vibrantsnap-editor.webp" alt="AI Auto-Edit" width="100%"/>
       <br/><br/>
       <strong>AI Auto-Edit</strong><br/>
-      Silence removal, filler word cleanup, and smooth transitions — applied automatically.
+      Silence removal, filler word cleanup, and smooth transitions, applied automatically.
     </td>
     <td width="50%">
       <img src="vibrantsnap-zoom.webp" alt="Dynamic Zoom" width="100%"/>
@@ -66,7 +66,7 @@ No timeline. No complex editing. Just record, and we handle the rest.
       <img src="vibrantsnap-analytics-dashboard.webp" alt="Video Analytics" width="100%"/>
       <br/><br/>
       <strong>Built-in Analytics</strong><br/>
-      Track views, engagement, and CTA clicks — know exactly how your videos perform.
+      Track views, engagement, and CTA clicks, know exactly how your videos perform.
     </td>
     <td width="50%">
       <img src="vibrantsnap-export.webp" alt="4K Export" width="100%"/>
@@ -101,9 +101,9 @@ Used by teams at companies like Afterpay, Amplitude, Gong, Attentive, and Drips 
 <div align="center">
   <br/>
 
-  **Less editing, more impact.**
+**Less editing, more impact.**
 
-  [Start creating with Vibrantsnap](https://vibrantsnap.com)
+[Start creating with Vibrantsnap](https://vibrantsnap.com)
 
   <br/>
 </div>
